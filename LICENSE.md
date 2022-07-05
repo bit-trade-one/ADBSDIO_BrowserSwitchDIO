@@ -1,4 +1,4 @@
-本製品はAssembly Desk License適応製品です。  
+本製品ADBSDIOはAssembly Desk License適応製品です。  
 本ライセンス適応製品は、改変・再配布・商用利用・有料販売等を行っていただく事が可能です。  
 利用時には、「著作権表示」と「ライセンス許諾表示全文」を記載して頂くことが条件となります。  
 詳しくは[オープンソースハードウェアとは？](https://bit-trade-one.co.jp/opensourcehardware/)をご覧ください。  
@@ -18,3 +18,16 @@ Copyright(c) 2010 株式会社ビット・トレード・ワン
 それに限定されるものではありません。作者または著作権者は、契約行為、不法行為、またはそれ以外であろうと、  
 設計資料に起因または関連し、 あるいは設計資料の使用またはその他の扱いによって生じる  
 一切の請求、損害、その他の義務について何ら責任を負わないものとします。  
+
+---
+
+Ethernet Library for Arduino ORIGINAL LIBRARY LICENSE:
+
+License
+Copyright (c) 2010 Arduino LLC. All right reserved.
+
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
