@@ -1,4 +1,4 @@
-本製品はAssembly Desk License（以下 ADL）適応製品です。  
+本製品はAssembly Desk License適応製品です。  
 本ライセンス適応製品は、改変・再配布・商用利用・有料販売等を行っていただく事が可能です。  
 利用時には、「著作権表示」と「ライセンス許諾表示全文」を記載して頂くことが条件となります。  
 詳しくは[オープンソースハードウェアとは？](https://bit-trade-one.co.jp/opensourcehardware/)をご覧ください。  
