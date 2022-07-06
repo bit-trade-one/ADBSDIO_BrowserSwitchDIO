@@ -1,6 +1,6 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-hashtags="Arduino" data-hashtags="ブラウザスイッチDIO" data-hashtags="Bit-trade-one" data-url="https://bit-trade-one.github.io/ADBSDIO_BrowserSwitchDIO/" data-via="BitTradeOne" data-text="ブラウザスイッチDIOサポート" data-show-count="false">Tweetする</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-hashtags="Arduino,ブラウザスイッチDIO,BitTradeOne,ビット・トレード・ワン" data-url="https://bit-trade-one.github.io/ADBSDIO_BrowserSwitchDIO/" data-via="BitTradeOne" data-text="ブラウザスイッチDIOサポート" data-show-count="false">Tweetする</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                                                                            
 #
