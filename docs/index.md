@@ -99,8 +99,8 @@ ADBSDIOはArduinoLeonardo互換のため、ArduinoIDEよりArduinoLeonardoを選
 なお、ArduinoIDEより書き込んだ場合ビット・トレード・ワンで付与したUSBVID・PIDではなくなります。<br>
 通常使用では問題ありませんが、ADBSDIOを別の製品として再販売する場合はArduino社・弊社のUSBVID・PIDで販売することは<br>
 推奨されていませんのでご注意ください。<br>
-</details>
-
+</details><br>
+  
 # サポートファイル等
 - 回路図  
 - 展開接続図  
