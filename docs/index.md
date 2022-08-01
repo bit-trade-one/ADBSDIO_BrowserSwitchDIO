@@ -112,7 +112,7 @@ ADBSDIOはArduinoLeonardo互換のため、ArduinoIDEよりArduinoLeonardoを選
 参考にさせていただきました。  
 心より感謝いたします。誠にありがとうございました。
 
-- [W5500_WIZnet Co., Ltd.](https://www.wiznet.io/product-item/w5500/)
+- [W5500](https://www.wiznet.io/product-item/w5500/)
 - [Ethernet Library for Arduino](https://github.com/arduino-libraries/Ethernet)  
 - Starting Electronics [Analog Inputs and Switches using AJAX](https://startingelectronics.org/tutorials/arduino/ethernet-shield-web-server-tutorial/AJAX-read-switches-analog/)  
 - The Strange Storage [Arduino Ethernet シールド [改訂増分版]](https://www.storange.jp/2014/04/arduino-ethernet.html)
