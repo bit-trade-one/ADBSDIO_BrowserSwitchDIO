@@ -68,8 +68,8 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
 <details><summary><strong>ランド説明</strong> </summary>
 ADBSDIOにはユーザがパターンカットやハンダブリッジをして設定ができるパッドが4つあります。<br>
 恐れ入りますがハンダブリッジ・パターンカットをした場合保証は外れます。<br>
-<img src="https://user-images.githubusercontent.com/85532743/182118702-53898fa7-c564-4b55-8915-5920560c63e0.png" width="1023px"><br><br>
-      
+<img src="https://user-images.githubusercontent.com/85532743/182118702-53898fa7-c564-4b55-8915-5920560c63e0.png" width="1023px"><br>
+<a href="https://user-images.githubusercontent.com/85532743/182118702-53898fa7-c564-4b55-8915-5920560c63e0.png">クリックで拡大</a><br><br>
 1.DI入力かAI入力か<br>
 デフォルトでは絶縁のDI入力が選ばれていますが、パターンカットしてAIをハンダブリッジすることにより<br>
 非絶縁AI入力が可能になります。なお、お客様の方でファームウェアを修正・書き直していただく必要があります。<br>
