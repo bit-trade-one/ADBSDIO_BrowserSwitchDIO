@@ -103,8 +103,7 @@ ADBSDIOはArduinoLeonardo互換のため、ArduinoIDEよりArduinoLeonardoを選
   
 # サポートファイル等
 - 回路図  
-- 展開接続図  
-- 改造例展開接続図サンプル
+- [配布展開接続図・改造例展開接続図サンプル](https://github.com/bit-trade-one/ADBSDIO_BrowserSwitchDIO/tree/master/SEQ)
 - ファームウェア  
 - [Q&A](FAQ.md)
 
