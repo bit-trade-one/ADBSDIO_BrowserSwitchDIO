@@ -4,7 +4,7 @@
 - ADBSDIO_SEQ.pdf  
 ADBSDIOの展開接続図のPDF版です。  
   
-- ADBSDIO_SEQ.zip
+- ADBSDIO_SEQ.zip  
 ADBSDIOの展開接続図のdxf版です。  
 解凍してご利用ください。  
   
