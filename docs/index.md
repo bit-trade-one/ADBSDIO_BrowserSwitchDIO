@@ -38,7 +38,8 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
 4.TeraTermの場合上のメニューから設定>端末を選び、送信の改行はLFを設定してください。<br>
 <img src="https://user-images.githubusercontent.com/85532743/182106019-3d67f0bd-68df-48f9-9fba-882c3145b0bb.png" width="720px"><br>
 <img src="https://user-images.githubusercontent.com/85532743/182108507-07e1f48a-d883-4dba-9094-e8cd899fbe43.png" width="720px"><br><br>
-5.なにかボタンを押すとセッティングモードに入ります。「1」と「Enter」を入力してください。
+5.なにかボタンを押すとセッティングモードに入ります。<br>
+セッティングモードに入ったら「1」と「Enter」を入力してください。
 <img src="https://user-images.githubusercontent.com/85532743/182110253-817634bd-0643-4e1e-b4bb-b7cb5f157b26.png" width="720px"><br><br>
 6.NEW_MAC_Address？と聞いてくるので新しいMACAddressを英数字のみで入力してください。<br>
 大文字小文字は関係なく大文字に変換されます。<br>
@@ -56,7 +57,8 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
 4.TeraTermの場合上のメニューから設定>端末を選び、送信の改行はLFを設定してください。<br>
 <img src="https://user-images.githubusercontent.com/85532743/182106019-3d67f0bd-68df-48f9-9fba-882c3145b0bb.png" width="720px"><br>
 <img src="https://user-images.githubusercontent.com/85532743/182108507-07e1f48a-d883-4dba-9094-e8cd899fbe43.png" width="720px"><br><br>
-5.なにかボタンを押すとセッティングモードに入ります。「2」と「Enter」を入力してください。
+5.なにかボタンを押すとセッティングモードに入ります。<br>
+セッティングモードに入ったら「2」と「Enter」を入力してください。
 <img src="https://user-images.githubusercontent.com/85532743/182110253-817634bd-0643-4e1e-b4bb-b7cb5f157b26.png" width="720px"><br><br>
 6.NEW_IP_Address？と聞いてくるので新しいIPAddressを数字のみで入力してください。<br>
 入力に失敗しエラーが出た場合は5秒待ち、キーを入力し設定モードに入るところからやり直してください。<br>
