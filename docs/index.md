@@ -20,14 +20,14 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
 またターミナル経由等でMACAddressと接続に使うIPAddressの変更が可能です。<br>
 入出力接点は全点絶縁されています。<br>
 入出力接点端子はM3のネジ端子とピンソケットを用意しています。お好きな方をご利用ください。<br>
-</details>
+</details><br>
        
 <details><summary><strong>簡易使用方法</strong> </summary>
 1.ADBSDIOにUSBかネジ端子から電力を供給します。ネジ端子は8~26Vの電源の入力が可能です。+-に注意して接続してください。<br><br>
 2.LANケーブルを接続しADBSDIOをネットワークに接続してください。<br><br>
 3.上記と同ネットワーク端末のブラウザから<a href="http://192.168.1.10/">http://192.168.1.10/</a>  に接続します。ここから監視・制御が可能です。<br>
  <img src="https://user-images.githubusercontent.com/85532743/182108096-a6eccd78-2a58-40df-99d0-feb57033f67e.png" width="480px"><br>
-</details>
+</details><br>
 
 <details><summary><strong>MACAddress書き換え方法</strong> </summary>
 1.ADBSDIOと設定するPCをUSBケーブルで接続してください。<br><br>
@@ -45,7 +45,7 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
 入力に失敗しエラーが出た場合は5秒待ち、キーを入力し設定モードに入るところからやり直してください。<br>
 設定ができたらUSBケーブルを抜き差しするかリセットボタンを押して再起動してください。MACAddressが適応されます。<br>
 <img src="https://user-images.githubusercontent.com/85532743/182110549-82d2f9dd-dc0f-417c-9e5a-4c2bad7d38f6.png" width="720px"><br>
-</details>
+</details><br>
 
 <details><summary><strong>IPAddress書き換え方法</strong> </summary>
 1.ADBSDIOと設定するPCをUSBケーブルで接続してください。<br><br>
@@ -63,7 +63,7 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
 設定ができたらUSBケーブルを抜き差しするかリセットボタンを押して再起動してください。MACAddressが適応されます。<br>
 <img src="https://user-images.githubusercontent.com/85532743/182111936-3ad7e6cf-5a61-4a7d-8383-2c09b67a2ef9.png" width="720px"><br>
 
-</details>
+</details><br>
 
 <details><summary><strong>ランド説明</strong> </summary>
 ADBSDIOにはユーザがパターンカットやハンダブリッジをして設定ができるパッドが4つあります。<br>
@@ -86,7 +86,7 @@ ADBSDIOにはユーザがパターンカットやハンダブリッジをして�
 4.W5500設定<br>
 ここをハンダブリッジすると、W5500の設定を変更することが出来ます。
 詳しくは回路図・Wiznet社W5500のHPをご確認ください。<br><br>
-</details>
+</details><br>
 
 <details><summary><strong>ファームウェア書き込み方法</strong> </summary>
        
