@@ -1,3 +1,4 @@
+※GitHubの使い方は[こちら](https://bit-trade-one.co.jp/h2gh/)の記事をご確認ください。
 # filelist
 - ADBSDIO_SEQ.dxf  
 ADBSDIOの展開接続図のdxf版です。  
