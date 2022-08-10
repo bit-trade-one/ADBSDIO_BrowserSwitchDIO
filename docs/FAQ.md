@@ -12,7 +12,7 @@
 
 ### A.はい 絶縁されています
 
-詳しくは回路図をご確認ください。
+詳しくは[回路図](https://github.com/bit-trade-one/ADBSDIO_BrowserSwitchDIO/blob/master/Schematics/ADBSDIO_SchematicV0.pdf)をご確認ください。  
 
 ---
 
@@ -34,7 +34,10 @@
 - ネットワークに接続されているか
 - 設定サイトにつなぐ端末が本体と同じネットワークに居るか  
 
-解消されない際は[お問い合わせ](https://bit-trade-one.co.jp/contactus/)ください。
+上記で解消されない場合、別のIPアドレスにすると直ることがあります。  
+サポートトップドキュメントのIPAddress書き換え方法をご覧ください。  
+  
+それでも解消されない際は[お問い合わせ](https://bit-trade-one.co.jp/contactus/)ください。  
 
 ---
 
