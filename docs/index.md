@@ -31,7 +31,7 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
 <img src="https://user-images.githubusercontent.com/85532743/185073396-862e1109-ad1b-4813-9fc3-05c2a0810da8.png" width="1023px"><br>
 <a href="https://user-images.githubusercontent.com/85532743/185073396-862e1109-ad1b-4813-9fc3-05c2a0810da8.png">クリックで拡大</a><br><br>
        
-3.上記と同ネットワーク端末のブラウザから<a href="http://192.168.1.10/">http://192.168.1.10/</a>  に接続します。ここから監視・制御が可能です。<br>
+3.端末のブラウザから<a href="http://192.168.1.10/">http://192.168.1.10/</a>  に接続します。ここから監視・制御が可能です。<br>
  <img src="https://user-images.githubusercontent.com/85532743/182108096-a6eccd78-2a58-40df-99d0-feb57033f67e.png" width="480px"><br>
 4.ネジ端子、ピンソケットに入力するもの、制御するものを接続ください。<br>
 <img src="https://user-images.githubusercontent.com/85532743/185077119-d89ff999-6a3d-499f-8601-80c3894757f6.png" width="1023px"><br><br>
