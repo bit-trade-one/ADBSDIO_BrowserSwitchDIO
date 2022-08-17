@@ -153,6 +153,12 @@ ADBSDIOはArduinoLeonardo互換のため、ArduinoIDEよりArduinoLeonardoを選
 通常使用では問題ありませんが、ADBSDIOを別の製品として再販売する場合はArduino社・弊社のUSBVID・PIDで販売することは<br>
 推奨されていませんのでご注意ください。<br>
 </details><br>
+
+<details><summary><strong>DINレールについて</strong> </summary>
+       
+ケース付きのADBSDIOはDINレールに取り付けることが可能です。<br>
+取り外しの際は白いレバーを引きながら取り外してください。<br>
+</details><br>
   
 # サポートファイル等
 - [回路図・基板図](https://github.com/bit-trade-one/ADBSDIO_BrowserSwitchDIO/tree/master/Schematics)
