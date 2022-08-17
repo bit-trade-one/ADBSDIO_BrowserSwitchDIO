@@ -29,6 +29,17 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
  <img src="https://user-images.githubusercontent.com/85532743/182108096-a6eccd78-2a58-40df-99d0-feb57033f67e.png" width="480px"><br>
 </details><br>
 
+<details><summary><strong>URLパラメータでの制御方法</strong> </summary>
+ブラウザスイッチではURLのパラメータを確認して出力を制御しているため、以下のURLを送ることでも制御可能です。<br><br>
+http://192.168.1.10/?DO0=ON  DO0のON<br>
+http://192.168.1.10/?DO0=OFF DO0のOFF<br>
+http://192.168.1.10/?DO1=ON  DO1のON<br>
+http://192.168.1.10/?DO1=OFF DO1のOFF<br>
+       
+尚、IPアドレスを変更した場合は適宜読み替えてください。<br><br>
+
+</details><br>
+
 <details><summary><strong>MACAddress書き換え方法</strong> </summary>
 1.ADBSDIOと設定するPCをUSBケーブルで接続してください。<br><br>
 2.PC画面左下Windowsマークを右クリックし、デバイスマネージャを選び、ADBSDIOのCOMポート番号を確認してください。<br>
