@@ -12,7 +12,9 @@ IPAddress dnsServer：192.168.1.1
 MACaddress：本体基板にシールで添付  
 
 コチラは変更可能です。  
-下記のドキュメント項をご確認ください。
+下記のドキュメント項をご確認ください。  
+  
+ADBSDIOとADBSDIOMBの基板は同一のものです。  
 
 # ドキュメント
 <details><summary><strong>ADBSDIO概要</strong> </summary>
@@ -24,9 +26,18 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
        
 <details><summary><strong>簡易使用方法</strong> </summary>
 1.ADBSDIOにUSBかネジ端子から電力を供給します。ネジ端子は8~26Vの電源の入力が可能です。+-に注意して接続してください。<br><br>
-2.LANケーブルを接続しADBSDIOをネットワークに接続してください。<br><br>
+2.LANケーブルを接続しADBSDIOをネットワークに接続してください。<br>
+制御端末もADBSDIOと同じネットワークに接続してください。<br><br>
+<img src="https://user-images.githubusercontent.com/85532743/185073396-862e1109-ad1b-4813-9fc3-05c2a0810da8.png" width="1023px"><br><br>
 3.上記と同ネットワーク端末のブラウザから<a href="http://192.168.1.10/">http://192.168.1.10/</a>  に接続します。ここから監視・制御が可能です。<br>
  <img src="https://user-images.githubusercontent.com/85532743/182108096-a6eccd78-2a58-40df-99d0-feb57033f67e.png" width="480px"><br>
+4.ネジ端子、ピンソケットに入力するもの、制御するものを接続ください。<br>
+<img src="https://user-images.githubusercontent.com/85532743/185077119-d89ff999-6a3d-499f-8601-80c3894757f6.png" width="1023px"><br><br>
+電圧入力はINの側が入力OUTの側が出力になるように接続ください。<br>
+ブラウザスイッチは絶縁入力のため、入力部を駆動できる電圧が必要です。<br>
+ブラウザスイッチ本体の5V出力を使うか、外部に電源を持たせて信号入力を行ってください。(DCIN 5~24V)<br>
+無電圧接点出力(リレー接点出力)はCOMのC接点,NOのA接点,NCのB接点に気をつけて接続ください。(AC125V/3A, DC30V/3A)<br>
+また、比較的高い電圧を使う場合は最新の注意を払ってご使用ください。<br>
 </details><br>
 
 <details><summary><strong>URLパラメータでの制御方法</strong> </summary>
