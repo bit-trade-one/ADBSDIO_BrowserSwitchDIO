@@ -114,6 +114,7 @@ DC5Vを入力すると12.5mA，DC24Vを入力すると60mA電流が流れます�
 <br>
 接続する接点に合わせて設定ください。<br><br>
 <img src="https://user-images.githubusercontent.com/85532743/185068188-b91116f9-3ff9-4cda-ad21-cb990ff6aed6.png" width="1023px"><br>
+<a href="https://user-images.githubusercontent.com/85532743/185068188-b91116f9-3ff9-4cda-ad21-cb990ff6aed6.png">クリックで拡大</a><br><br>
 <br>
 機器の接点が劣化し酸化膜が生成され小信号が伝達できなくなることを防ぐために<br>
 接点部にメッキなどを施した製品は微小負荷接点対策品などと呼ばれます。<br>
