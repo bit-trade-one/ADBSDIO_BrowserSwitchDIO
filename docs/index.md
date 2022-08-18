@@ -36,6 +36,7 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
 4.ネジ端子、ピンソケットに入力するもの、制御するものを接続ください。<br>
 ネジ端子とピンソケットは赤枠で囲んだ部分が導通しています。<br>
 <img src="https://user-images.githubusercontent.com/85532743/185340369-3af2de3d-b216-49eb-99b5-b47f519a5fbc.png" width="1023px"><br><br>
+<a href="https://user-images.githubusercontent.com/85532743/185340369-3af2de3d-b216-49eb-99b5-b47f519a5fbc.png">クリックで拡大</a><br><br>
 <img src="https://user-images.githubusercontent.com/85532743/185077119-d89ff999-6a3d-499f-8601-80c3894757f6.png" width="1023px"><br>
 <a href="https://user-images.githubusercontent.com/85532743/185077119-d89ff999-6a3d-499f-8601-80c3894757f6.png">クリックで拡大</a><br><br>
 電圧入力はINの側が入力OUTの側が出力になるように接続ください。<br>
