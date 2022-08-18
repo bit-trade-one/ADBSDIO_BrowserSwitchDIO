@@ -35,6 +35,7 @@ ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のO
  <img src="https://user-images.githubusercontent.com/85532743/182108096-a6eccd78-2a58-40df-99d0-feb57033f67e.png" width="480px"><br>
 4.ネジ端子、ピンソケットに入力するもの、制御するものを接続ください。<br>
 <img src="https://user-images.githubusercontent.com/85532743/185077119-d89ff999-6a3d-499f-8601-80c3894757f6.png" width="1023px"><br><br>
+<a href="https://user-images.githubusercontent.com/85532743/185077119-d89ff999-6a3d-499f-8601-80c3894757f6.png">クリックで拡大</a><br><br>
 電圧入力はINの側が入力OUTの側が出力になるように接続ください。<br>
 ブラウザスイッチは絶縁入力のため、入力部を駆動できる電圧が必要です。<br>
 ブラウザスイッチ本体の5V出力を使うか、外部に電源を持たせて信号入力を行ってください。(DCIN 5~24V)<br>
