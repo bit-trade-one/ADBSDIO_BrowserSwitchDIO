@@ -5,7 +5,7 @@
 
 WEBブラウザから接点監視・制御が可能なブラウザスイッチDIOのリポジトリです。
 
-## [HPリンク](http://bit-trade-one.co.jp/) 
+## [HPリンク](https://bit-trade-one.co.jp/adbsdio/) 
 
 ## [サポートサイト](https://bit-trade-one.github.io/ADBSDIO_BrowserSwitchDIO/)
 
