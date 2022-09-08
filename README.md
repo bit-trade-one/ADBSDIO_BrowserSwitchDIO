@@ -1,6 +1,7 @@
-# ADBSDIO_BrowserSwitchDIO
-
-![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/09/P1470590.jpg)
+# ADBSDIO/ADBSDIOMB_BrowserSwitchDIO
+## 本体画像
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/09/P1470590.jpg" width="480px"><br>
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/09/P1470592.jpg" width="480px"><br>
 
 WEBブラウザから接点監視・制御が可能なブラウザスイッチDIOのリポジトリです。
 
@@ -9,14 +10,3 @@ WEBブラウザから接点監視・制御が可能なブラウザスイッチDI
 ## [サポートサイト](https://bit-trade-one.github.io/ADBSDIO_BrowserSwitchDIO/)
 
 
-## 製品仕様
-    【対応OS】-
-    【サイズ】-
-    【重量】-
-    【入力点数】-
-    【コネクタ】-
-    【電源】-
-    【使用温度】-
-    【保証期間】 -
-    【付属品】-
-    【生産国】-
