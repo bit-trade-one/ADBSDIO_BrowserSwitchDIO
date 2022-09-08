@@ -78,7 +78,7 @@ http://192.168.1.10/?DO1=OFF DO1のOFF<br>
 <img src="https://user-images.githubusercontent.com/85532743/182110549-82d2f9dd-dc0f-417c-9e5a-4c2bad7d38f6.png" width="720px"><br>
 </details><br>
 
-<details><summary><strong>IPAddress書き換え方法</strong> </summary>
+<details><summary><strong>MACAddress以外書き換え方法</strong> </summary>
 1.ADBSDIOと設定するPCをUSBケーブルで接続してください。<br><br>
 2.PC画面左下Windowsマークを右クリックし、デバイスマネージャを選び、ADBSDIOのCOMポート番号を確認してください。<br>
 <img src="https://user-images.githubusercontent.com/85532743/182106724-7d3e53e5-287a-4822-9f1d-d631c9554114.png" width="720px"><br><br>
@@ -88,9 +88,10 @@ http://192.168.1.10/?DO1=OFF DO1のOFF<br>
 <img src="https://user-images.githubusercontent.com/85532743/182106019-3d67f0bd-68df-48f9-9fba-882c3145b0bb.png" width="720px"><br>
 <img src="https://user-images.githubusercontent.com/85532743/182108507-07e1f48a-d883-4dba-9094-e8cd899fbe43.png" width="720px"><br><br>
 5.なにかボタンを押すとセッティングモードに入ります。<br>
-セッティングモードに入ったら「2」と「Enter」を入力してください。<br>
+セッティングモードに入ったら「設定したい数字」と「Enter」を入力してください。<br>
+今回は例としてIPAddressを設定します。「2」と「Enter」を入力してください。<br>
 注意:入力された文字はEnterを押すまでPC画面に反映されません。<br>    
-<img src="https://user-images.githubusercontent.com/85532743/182110253-817634bd-0643-4e1e-b4bb-b7cb5f157b26.png" width="720px"><br><br>
+<img src="https://user-images.githubusercontent.com/85532743/189081892-27677609-07f7-4d8b-9686-bbdb5eee9417.png" width="720px"><br><br>
 6.NEW_IP_Address？と聞いてくるので新しいIPAddressを数字のみで入力してください。<br>
 入力に失敗しエラーが出た場合は5秒待ち、キーを入力し設定モードに入るところからやり直してください。<br>
 設定ができたらUSBケーブルを抜き差しするかリセットボタンを押して再起動してください。MACAddressが適応されます。<br>
