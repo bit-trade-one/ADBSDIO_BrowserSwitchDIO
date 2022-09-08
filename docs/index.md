@@ -15,7 +15,8 @@ MACaddress：本体基板にシールで添付
 下記のドキュメント項をご確認ください。  
   
 ADBSDIOとADBSDIOMBの基板は同一のものです。  
-
+# リンク
+[製品HP](https://bit-trade-one.co.jp/adbsdio/)
 # ドキュメント
 <details><summary><strong>ADBSDIO概要</strong> </summary>
 ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のON・OFFと接点がHIGHかLOWかの監視が可能です。<br>
