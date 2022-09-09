@@ -20,7 +20,7 @@ ADBSDIOとADBSDIOMBの基板は同一のものです。
 # ドキュメント
 <details><summary><strong>ADBSDIO概要</strong> </summary>
 ADBSDIOと同ネットワークの端末WEBブラウザからリレー接点のON・OFFと接点がHIGHかLOWかの監視が可能です。<br>
-またターミナル経由等でMACAddressと接続に使うIPAddressの変更が可能です。<br>
+またターミナル経由等でMACAddressと接続に使うIPAddress等の変更が可能です。<br>
 入出力接点は全点絶縁されています。<br>
 入出力接点端子はM3のネジ端子とピンソケットを用意しています。お好きな方をご利用ください。<br>
 </details><br>
