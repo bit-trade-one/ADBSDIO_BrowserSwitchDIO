@@ -10,6 +10,7 @@ IPAddress gateway：192.168.1.1
 IPAddress dnsServer：192.168.1.1  
 
 MACaddress：本体基板にシールで添付  
+(汎用ターミナルソフトからも確認可能)  
 
 コチラは変更可能です。  
 下記のドキュメント項をご確認ください。  
