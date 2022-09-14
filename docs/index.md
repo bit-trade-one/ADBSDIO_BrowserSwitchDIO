@@ -5,7 +5,7 @@
        
 # 出荷時設定
 [IPaddress：192.168.1.10](http://192.168.1.10/)  
-IPAddress subnet：255.255.25.0  
+IPAddress subnet：255.255.255.0  
 IPAddress gateway：192.168.1.1  
 IPAddress dnsServer：192.168.1.1  
 
