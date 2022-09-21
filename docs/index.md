@@ -52,10 +52,14 @@ ADBSDIOのネジ端子に対応する裸端子は丸形 ニチフR0.75-3.5など
 
 <details><summary><strong>URLパラメータでの制御方法</strong> </summary>
 ブラウザスイッチではURLのパラメータを確認して出力を制御しているため、以下のURLを送ることでも制御可能です。<br><br>
-http://192.168.1.10/?DO0=ON  DO0のON<br>
-http://192.168.1.10/?DO0=OFF DO0のOFF<br>
-http://192.168.1.10/?DO1=ON  DO1のON<br>
-http://192.168.1.10/?DO1=OFF DO1のOFF<br>
+DO0のON<br>
+http://192.168.1.10/?DO0=ON<br>
+DO0のOFF<br>
+http://192.168.1.10/?DO0=OFF<br>
+DO1のON<br>
+http://192.168.1.10/?DO1=ON<br>
+DO1のOFF<br>
+http://192.168.1.10/?DO1=OFF<br>
        
 尚、IPアドレスを変更した場合は適宜読み替えてください。<br><br>
 
